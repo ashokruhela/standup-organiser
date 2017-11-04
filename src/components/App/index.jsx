@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 
 const App = ({ name }) => 
     <div>
-        <p>Hiya, Its me {name} and i created two chunks</p>
+        <p>Hiya, Welcome to Digital Access standup organiser</p>
     </div>
 
 export default App;
